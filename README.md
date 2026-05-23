@@ -10,5 +10,7 @@ Basic Weed Detection Model
   3. Build the model and test on your dataset
 
 ## Deadline
-The model should be done by the second meeting in June as we will be doing field testing in June
+The model should be done by the second meeting in June as we will be doing field testing in June.
+
+
 References: https://www.mdpi.com/2077-0472/15/21/2296
