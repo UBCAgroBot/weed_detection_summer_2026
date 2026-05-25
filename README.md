@@ -1,5 +1,5 @@
 # weed_detection_summer_2026
-Basic Weed Detection Model 
+Basic Weed Detection Model  
 
 ## Problem Description: 
 - Given images, the model must accurately determine where the weed is located. It must handle varying weed density, lighting conditions and growth stages of the weeds. Assume the Camera is positioned so it gives a full view of what is in front of the Robot (From the top view).
