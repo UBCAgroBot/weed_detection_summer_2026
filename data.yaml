@@ -1,0 +1,8 @@
+path: /Users/tyra/Desktop/Agrobot/weed_detection_summer_2026/data/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names: ['crop', 'weed']
