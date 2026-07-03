@@ -12,5 +12,5 @@ Basic Weed Detection Model
 ## Deadline
 The model should be done by the second meeting in June as we will be doing field testing in June.
 
-
+TEST
 References: https://www.mdpi.com/2077-0472/15/21/2296
