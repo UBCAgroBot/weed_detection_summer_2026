@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Weed detection
+data/
+runs/
+yolo26n.pt
+*.pt
+.DS_Store
+Agrobot Weed Detection 2026.py
